@@ -4,7 +4,7 @@ Performing analysis on Kickstarter data to uncover trends
 # Kickstarting with Excel
 ## Overview of Project
 ### Purpose
-To use Excel Kickstarter Data Set to analyze historical data and determine outcomes of; successful, failed, and canceled fundraising campaigns and to assist in the successful planning of future campaigns in order to ensure they meet future fundraising goals. First, by analyzing theater events using filters, pivot tables, and charts for visualization. After that analyzing the subcategory of plays with formulas to summarize successful, failed, and canceled events.
+Analyzing the Excel Kickstarter Data Sets historical data to determine outcomes of; successful, failed, and canceled fundraising campaigns oif theaters and plays. Providing an analysis will assist in successfully planning future campaigns to ensure they meet future fundraising goals. First, by analyzing theater events using filters, pivot tables, and charts for visualization. After that analyzing the subcategory of plays with formulas to summarize successful, failed, and canceled events. 
 [Kickstarter_Challenge.xlsx](https://github.com/JillianMM/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
