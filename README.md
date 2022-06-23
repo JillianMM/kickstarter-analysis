@@ -5,7 +5,7 @@ Performing analysis on Kickstarter data to uncover trends
 ## Overview of Project
 ### Purpose
 To use Excel Kickstarter Data Set to analyze historical data and determine outcomes of; successful, failed, and canceled fundraising campaigns to assist in the successful planning of future campaigns to ensure they meet future fundraising goals. First, by analyzing theater events using filters, pivot tables, and charts for visualization. After that analyzing the subcategory of plays with formulas to summarize successful, failed, and canceled events.
-[Kickstarter_Challenge.xlsx](https://github.com/JillianMM/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx))
+[Kickstarter_Challenge.xlsx](https://github.com/JillianMM/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 An analysis of the Outcomes Based on the Launch date showed that the most successful month for "theater" was May, followed by June and July. The least successful months were January, March, October, and December. With the highest number of cancelations in January and the most failures in October.
