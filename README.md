@@ -9,7 +9,7 @@ To use Excel Kickstarter Data Set to analyze historical data and determine outco
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 An analysis of the Outcomes Based on the Launch date showed that the most successful month for "theater" was May, followed by June and July. The least successful months were January, March, October, and December. With the highest number of cancelations in January and the most failures in October.
-[image_name](path/to/image_name.png).
+[Theater_Outcomes_vs_Launch.png](https://raw.githubusercontent.com/JillianMM/kickstarter-analysis/7a347d9b08091d9a75e80eb72fb5bfa923bc1157/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 The analysis for outcomes based on Goals showed that plays with goals set from 1,000 or less and up to 10,000 tend to be successful. Plays with goals set from less than 1,000 to 4,999 had shown a success rate of 73% and higher. Plays with goals set higher than that are not as likely to succeed, with a 95% failure rate in the 15,000 to 20,000 range. There were some successful campaigns in the higher goal ranges, but more analysis is needed in this area since there number of campaigns significantly drops as the goal amounts increase. 
 [image_name](path/to/image_name.png).
